@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Prithu Misra!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile views">
